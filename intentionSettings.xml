@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Split Declaration" />
+    <ignoreAction name="Java/Annotations/Annotate Externally" />
+  </component>
+</application>
