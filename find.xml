@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../eqxiu/src/main/java/cn/knet/eqxiu/editor/video/editor/simple/SimpleEditorActivity.kt [eqxiu]'" />
-    <option name="defaultScopeName" value="File '.../eqxiu/src/main/java/cn/knet/eqxiu/editor/video/editor/simple/SimpleEditorActivity.kt [eqxiu]'" />
-    <option name="SEARCH_SCOPE" value="File '.../eqxiu/src/main/java/cn/knet/eqxiu/editor/video/editor/simple/SimpleEditorActivity.kt [eqxiu]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
