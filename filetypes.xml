@@ -4,11 +4,11 @@
     <extensionMap>
       <mapping ext="0" type="CLASS" />
       <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="libwbsafeedit" type="PLAIN_TEXT" />
       <mapping pattern="worklog" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
