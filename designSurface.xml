@@ -11,7 +11,7 @@
         <entry key="app/src/main/res/drawable/icon.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/shape_bg_all_assets_card.xml" value="0.23796296296296296" />
         <entry key="app/src/main/res/drawable/shape_bg_bottom_sheet.xml" value="0.23796296296296296" />
-        <entry key="app/src/main/res/drawable/shape_bg_expandable_view.xml" value="0.22592592592592592" />
+        <entry key="app/src/main/res/drawable/shape_bg_expandable_view.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/shape_btn_secondary_small_round_normal.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/vector_all_wallet_dark.xml" value="0.353125" />
         <entry key="app/src/main/res/drawable/vector_browser_ic.xml" value="0.353125" />
