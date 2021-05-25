@@ -31,6 +31,7 @@
         <entry key="app/src/main/res/layout/activity_home_onekey.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
         <entry key="app/src/main/res/layout/activity_wallet_list_v2.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/base_ui_toolbar.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/check_xpub.xml" value="0.19427083333333334" />
         <entry key="app/src/main/res/layout/dialogfragment_select_bitcoin_address_type.xml" value="0.1" />
         <entry key="app/src/main/res/layout/expandable_view_indicator.xml" value="0.3380208333333333" />
