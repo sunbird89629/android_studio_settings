@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.3645833333333333" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/big_gray_tuo.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/card.xml" value="0.30925925925925923" />
         <entry key="app/src/main/res/drawable/fee_back_4.xml" value="0.1" />
@@ -26,9 +26,12 @@
         <entry key="app/src/main/res/layout/ac_base_not_fit_layout.xml" value="0.23278985507246377" />
         <entry key="app/src/main/res/layout/ac_token_list_headerview.xml" value="0.23278985507246377" />
         <entry key="app/src/main/res/layout/activity_add_address_activitiy.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/activity_address_book.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_address_book_list.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_all_assets.xml" value="0.28967254408060455" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.23369565217391305" />
+        <entry key="app/src/main/res/layout/activity_create_fast_hd_soft_wallet.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/activity_create_soft_wallet.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_hd_root_mnemonics.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_hd_wallet_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_home_onekey.xml" value="0.3380208333333333" />
