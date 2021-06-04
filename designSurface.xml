@@ -73,6 +73,7 @@
         <entry key="app/src/main/res/layout/item_all_assets_account.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/item_all_assets_account_expandable.xml" value="0.1859375" />
         <entry key="app/src/main/res/layout/item_asset.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/item_dapp_collection.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/item_wallet_main_banner.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_all_asset_no_balance.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/view_all_assets_card.xml" value="0.5" />
