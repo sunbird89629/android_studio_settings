@@ -5,9 +5,14 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/add_bk.xml" value="0.353125" />
+        <entry key="app/src/main/res/drawable/backup_back.xml" value="0.2222222222222222" />
         <entry key="app/src/main/res/drawable/big_gray_tuo.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/black_bk.xml" value="0.3476923076923077" />
         <entry key="app/src/main/res/drawable/card.xml" value="0.30925925925925923" />
+        <entry key="app/src/main/res/drawable/check_address_book_save_text_view.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/check_mnemonic.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/check_mnemonic_color.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/check_money.xml" value="0.2222222222222222" />
         <entry key="app/src/main/res/drawable/fee_back_4.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/gray_tuo_6.xml" value="0.353125" />
         <entry key="app/src/main/res/drawable/icon.xml" value="0.20833333333333334" />
