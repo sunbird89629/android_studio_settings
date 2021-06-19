@@ -55,6 +55,8 @@
         <entry key="motionlayout/src/main/res/layout/motion_11_coordinatorlayout.xml" value="0.1" />
         <entry key="motionlayout/src/main/res/layout/motion_11_coordinatorlayout_header.xml" value="0.2368659420289855" />
         <entry key="motionlayout/src/main/res/layout/motion_20_reveal.xml" value="0.2368659420289855" />
+        <entry key="start/src/main/res/layout/activity_main.xml" value="0.28596757852077" />
+        <entry key="start/src/main/res/layout/fragment_plant_list.xml" value="0.28596757852077" />
       </map>
     </option>
   </component>
