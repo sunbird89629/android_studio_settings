@@ -60,6 +60,7 @@
         <entry key="app/src/main/res/layout/activity_reddit.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_select_token.xml" value="0.23369565217391305" />
         <entry key="app/src/main/res/layout/activity_send_hd.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/activity_soft_pass.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_wallet_list_v2.xml" value="0.19427083333333334" />
         <entry key="app/src/main/res/layout/base_ui_toolbar.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/check_xpub.xml" value="0.19427083333333334" />
@@ -79,6 +80,7 @@
         <entry key="app/src/main/res/layout/fragment_import_watch_wallet.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/fragment_mind.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/fragment_selector_chain_coin.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/fragment_soft_pass.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/fragment_start_connect_nfc.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/fragment_wallet_create_setting.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/fragment_wallet_v2.xml" value="0.5" />
