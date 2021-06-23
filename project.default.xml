@@ -280,7 +280,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
-        <property name="android.sdk.path" value="$USER_HOME$/1-android-workhouse/adt-bundle-mac-x86_64-20130219/sdk" />
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
         <property name="last_opened_file_path" value="$USER_HOME$/git" />
         <property name="options.lastSelected" value="http.proxy" />
         <property name="options.searchVisible" value="true" />
