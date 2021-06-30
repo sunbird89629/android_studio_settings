@@ -17,6 +17,7 @@
         <entry key="app/src/main/res/drawable/fee_back_4.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/gray_tuo_6.xml" value="0.353125" />
         <entry key="app/src/main/res/drawable/green_broken_.xml" value="0.353125" />
+        <entry key="app/src/main/res/drawable/ic_hardware_device.xml" value="0.43645833333333334" />
         <entry key="app/src/main/res/drawable/ic_phone_and_device.xml" value="0.3111111111111111" />
         <entry key="app/src/main/res/drawable/icon.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/icon_address_book.xml" value="0.17592592592592593" />
@@ -119,6 +120,7 @@
         <entry key="app/src/main/res/layout/item_dapp_collection.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/item_select_hardware_type.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/item_wallet_main_banner.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/key_item.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_all_asset_no_balance.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/view_all_assets_card.xml" value="0.5" />
