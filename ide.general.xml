@@ -14,5 +14,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
