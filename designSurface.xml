@@ -5,10 +5,15 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/anim_path21.xml" value="0.22314814814814815" />
+        <entry key="app/src/main/res/drawable/anim_vector2.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/drawable/big_gray_tuo.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/card.xml" value="0.30925925925925923" />
         <entry key="app/src/main/res/drawable/fee_back_4.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/gray_tuo_6.xml" value="0.353125" />
+        <entry key="app/src/main/res/drawable/ic_chain_svg_test.xml" value="0.2388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.22314814814814815" />
+        <entry key="app/src/main/res/drawable/ic_svg2.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/icon.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/shape_bg_all_assets_card.xml" value="0.23796296296296296" />
         <entry key="app/src/main/res/drawable/shape_bg_bottom_sheet.xml" value="0.23796296296296296" />
@@ -37,6 +42,8 @@
         <entry key="app/src/main/res/layout/activity_nested_scroll_test.xml" value="0.27912867274569403" />
         <entry key="app/src/main/res/layout/activity_paging_test.xml" value="0.28306159420289856" />
         <entry key="app/src/main/res/layout/activity_reddit.xml" value="0.48596014492753625" />
+        <entry key="app/src/main/res/layout/activity_svg_anim_test.xml" value="0.4855072463768116" />
+        <entry key="app/src/main/res/layout/activity_svg_test.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_timer.xml" value="0.48596014492753625" />
         <entry key="app/src/main/res/layout/expandable_view_indicator.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/item_account.xml" value="0.3380208333333333" />
