@@ -81,6 +81,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
         <entry key="app/src/main/res/layout/activity_onekey_scan_qr_result.xml" value="0.16438703140830802" />
         <entry key="app/src/main/res/layout/activity_recover_hd_wallet.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/activity_recovery_set.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_reddit.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_search_devices.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_select_back_up.xml" value="0.42135416666666664" />
@@ -92,6 +93,7 @@
         <entry key="app/src/main/res/layout/activity_wallet_list_v2.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/base_ui_toolbar.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/check_xpub.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/confirm_on_hardware_activity.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/custom_fee.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/dialog_add_token.xml" value="0.32065217391304346" />
         <entry key="app/src/main/res/layout/dialog_base_bottom.xml" value="0.32065217391304346" />
