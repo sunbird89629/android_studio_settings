@@ -68,6 +68,7 @@
         <entry key="app/src/main/res/layout/activity_create_soft_wallet.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_currency.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_details1.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/activity_find_device_and_backed_up.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_find_device_no_backup.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_find_new_device.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_hardware_active.xml" value="0.42135416666666664" />
@@ -91,9 +92,11 @@
         <entry key="app/src/main/res/layout/activity_send_hd.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_soft_pass.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/activity_somemore.xml" value="0.42135416666666664" />
+        <entry key="app/src/main/res/layout/activity_title_container.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_wallet_list_v2.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/base_ui_toolbar.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/check_xpub.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/choose_hd_wallet_item.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/confirm_on_hardware_activity.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/custom_fee.xml" value="0.3380208333333333" />
         <entry key="app/src/main/res/layout/dialog_add_token.xml" value="0.32065217391304346" />
@@ -145,6 +148,7 @@
         <entry key="app/src/main/res/layout/item_select_hardware_type.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/item_wallet_main_banner.xml" value="0.1" />
         <entry key="app/src/main/res/layout/key_item.xml" value="0.42135416666666664" />
+        <entry key="app/src/main/res/layout/looking_for_once_wallet.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/vervify_hardware_fragment.xml" value="0.20364583333333333" />
