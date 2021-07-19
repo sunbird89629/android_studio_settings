@@ -7,6 +7,7 @@
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="JDK Location different to JAVA_HOME" displayType="NONE" shouldLog="false" />
+    <notification groupId="Key Promoter X" displayType="NONE" shouldLog="false" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
   </component>
 </application>
