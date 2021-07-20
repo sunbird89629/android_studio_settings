@@ -72,6 +72,7 @@
         <entry key="app/src/main/res/layout/activity_find_device_no_backup.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_find_new_device.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_hardware_active.xml" value="0.42135416666666664" />
+        <entry key="app/src/main/res/layout/activity_hardware_backup.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_hardware_details.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_hardware_not_active.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_hardware_not_connected.xml" value="0.42135416666666664" />
