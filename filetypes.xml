@@ -9,7 +9,6 @@
       <mapping pattern="worklog" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
