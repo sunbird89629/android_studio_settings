@@ -41,7 +41,7 @@
         <entry key="app/src/main/res/layout/activity_hardware_backup.xml" value="0.5880208333333333" />
         <entry key="app/src/main/res/layout/activity_hardware_not_active.xml" value="0.5880208333333333" />
         <entry key="app/src/main/res/layout/activity_home_onekey.xml" value="0.3380208333333333" />
-        <entry key="app/src/main/res/layout/activity_hook.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_hook.xml" value="0.5739583333333333" />
         <entry key="app/src/main/res/layout/activity_layout_manager_test.xml" value="0.2916666666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3446557971014493" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.5880208333333333" />
@@ -50,6 +50,7 @@
         <entry key="app/src/main/res/layout/activity_nested_scroll_test.xml" value="0.27912867274569403" />
         <entry key="app/src/main/res/layout/activity_paging_test.xml" value="0.28306159420289856" />
         <entry key="app/src/main/res/layout/activity_reddit.xml" value="0.48596014492753625" />
+        <entry key="app/src/main/res/layout/activity_second_hook.xml" value="0.5739583333333333" />
         <entry key="app/src/main/res/layout/activity_send_diem.xml" value="0.3515625" />
         <entry key="app/src/main/res/layout/activity_svg_anim_test.xml" value="0.4855072463768116" />
         <entry key="app/src/main/res/layout/activity_svg_test.xml" value="0.28596757852077" />
