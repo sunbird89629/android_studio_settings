@@ -3,13 +3,14 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="0" type="CLASS" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="libwbsafeedit" type="PLAIN_TEXT" />
       <mapping pattern="worklog" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
