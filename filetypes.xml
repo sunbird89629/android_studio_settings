@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="0" type="CLASS" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="libwbsafeedit" type="PLAIN_TEXT" />
       <mapping pattern="worklog" type="PLAIN_TEXT" />
