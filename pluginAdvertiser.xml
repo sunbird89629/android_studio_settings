@@ -146,23 +146,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.config">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.cpt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -676,22 +659,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.markdown">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.md">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.mdb">
           <value>
             <plugin>
@@ -761,14 +728,6 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pb">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="idea.plugin.protoeditor" />
-              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -889,19 +848,44 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.proto">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="idea.plugin.protoeditor" />
-              <option name="myPluginName" value="Protocol Buffer Editor" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.py">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.qrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1014,14 +998,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.spec">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.svg">
           <value>
             <plugin>
@@ -1037,14 +1013,6 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.textproto">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="idea.plugin.protoeditor" />
-              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -1108,6 +1076,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ui">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
             </plugin>
           </value>
         </entry>
@@ -1326,6 +1302,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="buildout.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1340,15 +1324,6 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="lombok.config">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1465,6 +1440,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="PythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
+                    </value>
+                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
@@ -1480,9 +1460,14 @@
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
                     </value>
                   </entry>
-                  <entry key="executeSpecs">
+                  <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="Gauge Execution" pluginName="Gauge" pluginId="com.thoughtworks.gauge" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
+                    </value>
+                  </entry>
+                  <entry key="tests">
+                    <value>
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                 </map>
@@ -1518,6 +1503,11 @@
                   <entry key="app-engine-gradle">
                     <value>
                       <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
+                    </value>
+                  </entry>
+                  <entry key="buildout-python">
+                    <value>
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="java-gradle">
