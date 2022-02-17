@@ -1,0 +1,29 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="913c39ed" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2011K2C" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="033921193J002056" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-17T11:04:20.387316Z" />
+        <name value="TECNO MOBILE LIMITED TECNO LA7" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
