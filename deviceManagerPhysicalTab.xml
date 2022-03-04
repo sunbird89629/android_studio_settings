@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R9HR90CV4KE" />
+          </Key>
+        </key>
+        <name value="samsung SM-E5260" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="033921193J002056" />
           </Key>
         </key>
@@ -21,18 +32,6 @@
           </Key>
         </key>
         <name value="Xiaomi M2011K2C" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R9HR90CV4KE" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-04T06:55:30.720854Z" />
-        <name value="samsung SM-E5260" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
