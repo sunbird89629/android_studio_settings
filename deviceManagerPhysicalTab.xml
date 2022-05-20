@@ -30,9 +30,9 @@
             <value value="913c39ed" />
           </Key>
         </key>
-        <name value="Xiaomi M2011K2C" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
