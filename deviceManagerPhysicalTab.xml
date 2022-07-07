@@ -8,9 +8,9 @@
             <value value="0611825156000648" />
           </Key>
         </key>
-        <name value="INFINIX MOBILITY LIMITED Infinix X682C" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
