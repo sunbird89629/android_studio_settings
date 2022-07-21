@@ -29,8 +29,10 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" pattern="\brmvit\b.*" />
     <filter name="我的待修复">
       <pattern index="1" />
+      <pattern index="2" />
     </filter>
   </component>
 </application>
