@@ -1,6 +1,7 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="26" />
