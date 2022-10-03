@@ -53,8 +53,8 @@
           </Key>
         </key>
         <name value="Xiaomi M2011K2C" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -122,6 +122,17 @@
         <name value="samsung SM-M405F" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-913c39ed-dnCMjX._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
