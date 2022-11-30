@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onSizeChanged" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="onSizeChanged" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:m" />
         <option value="package" />
         <option value="com.example.leakcanary" />
