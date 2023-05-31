@@ -2,10 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine onDrawOver" />
         <option value="package:mine drawStickySection" />
-        <option value="package:mine " />
         <option value="onSizeChanged" />
         <option value="package:m" />
         <option value="package" />
