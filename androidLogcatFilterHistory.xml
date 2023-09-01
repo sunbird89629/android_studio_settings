@@ -1,0 +1,19 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine onDrawOver" />
+        <option value="package:mine drawStickySection" />
+        <option value="onSizeChanged" />
+        <option value="package:m" />
+        <option value="package" />
+        <option value="com.example.leakcanary" />
+        <option value="getService" />
+        <option value="handleUpdateState" />
+        <option value="hwservicemanager" />
+      </list>
+    </option>
+  </component>
+</application>

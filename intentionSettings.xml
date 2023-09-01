@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Split Declaration" />
+    <ignoreAction name="Java/Annotations/Annotate Externally" />
+    <ignoreAction name="Kotlin/Import members with '*'" />
+  </component>
+</application>
