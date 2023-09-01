@@ -9,10 +9,10 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="libwbsafeedit" type="PLAIN_TEXT" />
       <mapping pattern="worklog" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
-      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
